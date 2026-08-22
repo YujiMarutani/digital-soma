@@ -501,7 +501,250 @@ The model showed:
 This exposed an important limitation:
 
 > **Agency Compression was not produced by the original parameterization.**
+## Simulation Layer
 
+The Digital Soma simulation stack is organized as a progressive experimental pipeline.
+
+```text
+DIGITAL SOMA SIMULATION STACK
+
+01 — Single-Agent Friction Regulation
+     Core dynamical system
+          ↓
+02 — F_target Parameter Sweep
+     Policy-space exploration
+          ↓
+02b — Sensitivity / Existence Search
+     1,620-run factorial exploration
+          ↓
+03 — Lambda Continuation
+     Agency-compression trajectory
+          ↓
+03b — Critical Boundary Analysis
+     Operational regime boundaries
+          ↓
+03c — Temporal Dynamics
+     Planned: path dependence / hysteresis
+```
+
+The experiments are not designed to confirm the Digital Soma hypothesis.
+
+They are designed to determine under which parameter conditions the proposed regimes are reachable.
+
+---
+
+## Current Regime Structure
+
+The current model identifies several operational regimes.
+
+```text
+                    HUMAN AGENCY
+                         ↑
+                         │
+              ┌──────────┴──────────┐
+              │    ADAPTIVE ZONE    │
+              │                     │
+              │   High C + High H   │
+              └──────────┬──────────┘
+                         │
+                         │
+                 CAPACITY SUPPRESSION
+                         │
+                         │
+AI INTERVENTION ─────────┼────────────→
+                         │
+                         │
+              ┌──────────┴──────────┐
+              │ HOMEOSTATIC TRAP    │
+              │                     │
+              │ Low C + Low H       │
+              │ + Low Friction      │
+              └──────────┬──────────┘
+                         │
+                         ↓
+                 AGENCY COMPRESSION
+```
+
+These regimes are defined operationally from model observables rather than assumed as fundamental states of human society.
+
+### Operational Definitions
+
+| Regime | Operational condition |
+|---|---|
+| Adaptive Zone | High transformative capacity + preserved agency + sufficient adaptive-window occupancy |
+| Comfort Optimization | Low mean friction + sustained AI intervention |
+| Capacity Suppression | Low transformative capacity |
+| Agency Compression | Reduced mean or final human agency |
+| Homeostatic Trap | Comfort Optimization + Capacity Suppression + Agency Compression |
+
+The thresholds are intentionally fixed across experiments.
+
+They are not moved to produce a desired narrative.
+
+---
+
+## Critical Lambda Boundaries
+
+High-resolution continuation analysis identified two important operational boundaries.
+
+```text
+λ ≈ 0.05675
+     ↓
+Homeostatic Trap becomes operationally detectable
+
+
+λ ≈ 0.09725
+     ↓
+Mean Agency Compression threshold crossed
+```
+
+Conceptually:
+
+```text
+λ
+│
+│                    AGENCY COMPRESSION
+│                    H̄ ≤ 0.70
+│                         │
+│                         ●  λ ≈ 0.09725
+│                         │
+│                         │
+│          HOMEOSTATIC   │
+│             TRAP        │
+│                         │
+│────────●────────────────┘
+│      λ ≈ 0.05675
+│
+└────────────────────────────────→
+```
+
+Importantly, these boundaries should not be interpreted as demonstrated dynamical bifurcations.
+
+The observed state variables change continuously across the sampled region.
+
+The boundaries represent:
+
+> **Operational threshold crossings along a continuous agency-degradation trajectory.**
+
+No discontinuous state transition has been demonstrated in the current model.
+
+---
+
+## What the Regime Analysis Shows
+
+The current computational evidence supports four cautious conclusions.
+
+### 1. Transformative capacity is friction-dependent
+
+The model produces a strong inverted-U relationship between experienced friction and transformative capacity.
+
+This relationship is structurally imposed by the current functional form and should therefore not be interpreted as an emergent empirical discovery.
+
+### 2. AI intervention can produce sustained low-friction states
+
+The proportional controller increases intervention when the target friction is below the system's natural equilibrium.
+
+This behavior emerges from the feedback mechanism.
+
+### 3. Agency Compression is mathematically reachable but not generic
+
+The original parameterization produced approximately:
+
+```text
+H ≈ 1
+```
+
+across the initial F_target sweep.
+
+Agency Compression only appeared in a restricted region of parameter space during Experiment 02b.
+
+### 4. Homeostatic Trap occupies a restricted parameter region
+
+The sensitivity experiment identified Homeostatic Trap in:
+
+```text
+54 / 1620 runs
+≈ 3.3%
+```
+
+of the explored parameter space.
+
+Therefore:
+
+> **The Homeostatic Trap is possible within the current model, but it is not a generic consequence of AI friction regulation.**
+
+---
+
+## Current Theoretical Position
+
+The current model should therefore be interpreted as a boundary-condition model.
+
+It does not demonstrate that civilization will inevitably enter a Digital Soma state.
+
+Instead, it demonstrates that under certain combinations of:
+
+```text
+High AI intervention
+        +
+Strong agency compression
+        +
+Low agency regeneration
+        +
+Low transformative protection
+        ↓
+Potential Homeostatic Trap
+```
+
+a regime satisfying the operational definition of Homeostatic Trap becomes reachable.
+
+The important question for subsequent experiments is therefore not:
+
+> "Does Digital Soma happen?"
+
+but:
+
+> **"Under what dynamical and environmental conditions does a Digital Soma-like regime emerge, persist, or disappear?"**
+
+---
+
+## Next Experimental Layer
+
+The next planned experiment is:
+
+```text
+03c — Temporal Dynamics
+```
+
+Objectives:
+
+- examine the time evolution of F(t)
+- examine C(t)
+- examine H(t)
+- examine A_AI(t)
+- identify causal ordering between intervention, friction, capacity, and agency
+- test for path dependence
+- test for hysteresis
+- distinguish transient compression from sustained compression
+
+The subsequent stage will extend the analysis into a two-dimensional regime map:
+
+```text
+                 γ
+                 ↑
+                 │
+        Adaptive │
+                 │
+                 │
+                 │
+                 ├────────────────→ λ
+                 │
+                 │ Homeostatic
+                 │ Trap
+                 │
+                 ↓
+```
+
+This will allow the project to move from a one-dimensional threshold analysis toward a genuine **civilizational regime-space analysis**.
 ---
 
 # 11. Experiment 02b — Sensitivity Analysis
