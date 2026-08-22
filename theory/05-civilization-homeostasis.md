@@ -1,4 +1,4 @@
-# Civilizational Homeostasis
+# 05. Civilizational Homeostasis
 
 ## 1. Overview
 
