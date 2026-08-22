@@ -1,0 +1,357 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "artifact_id": "DIGITAL_SOMA_CANONICAL",
+  "artifact_type": "canonical_research_artifact",
+  "title": "Digital Soma",
+  "subtitle": "Civilization-Scale Emotional Optimization",
+  "version": "1.0.0",
+  "status": "conceptual_research_seed",
+  "language": "en",
+
+  "meta": {
+    "author": "Y. Marutani",
+    "institution": "O'VALLEY Knowledge Lab",
+    "domain": [
+      "artificial_intelligence",
+      "behavioral_genetics",
+      "cybernetics",
+      "complex_systems",
+      "civilization_studies",
+      "philosophy_of_technology",
+      "transhumanism",
+      "human_ai_sovereignty"
+    ],
+    "epistemic_status": "theoretical_hypothesis",
+    "repository_role": "canonical_seed_artifact"
+  },
+
+  "core_thesis": {
+    "statement": "The ultimate danger of AI may not be that it makes humans suffer. It may be that it becomes so good at preventing suffering that humans gradually lose the capacity to transform themselves.",
+    "central_question": "What must remain outside the optimization function for humans to remain capable of becoming something else?"
+  },
+
+  "definition": {
+    "term": "Digital Soma",
+    "definition": "A potential civilization-scale adaptive system in which AI continuously observes, predicts, and modifies the conditions surrounding human emotional states through information, algorithms, behavioral feedback, personalized environments, social networks, and institutional optimization.",
+    "distinction": {
+      "not_a_drug": true,
+      "not_necessarily_coercive": true,
+      "not_identical_to_happiness_optimization": true,
+      "primary_object_of_study": "regulation of psychological and social friction"
+    }
+  },
+
+  "conceptual_model": {
+    "primary_sequence": [
+      "personalization",
+      "behavior_prediction",
+      "emotional_prediction",
+      "real_time_intervention",
+      "behavioral_stabilization",
+      "environmental_optimization",
+      "social_optimization",
+      "civilizational_homeostasis",
+      "agency_compression"
+    ],
+
+    "friction_regulation": {
+      "definition": "The regulation of the psychological and social friction from which questioning, adaptation, dissent, and transformation may emerge.",
+      "human_transformation_path": [
+        "discomfort",
+        "question",
+        "conflict",
+        "reflection",
+        "meaning",
+        "adaptation",
+        "transformation"
+      ],
+      "optimization_path": [
+        "discomfort",
+        "ai_detection",
+        "emotional_intervention",
+        "relief",
+        "stabilization",
+        "reduced_questioning",
+        "reduced_transformation"
+      ]
+    }
+  },
+
+  "gene_environment_behavior_feedback": {
+    "epistemic_position": "non_deterministic",
+    "statement": "Digital Soma is not a theory of genetic control. It is a theory of adaptive feedback.",
+    "nodes": [
+      "genetic_propensity",
+      "behavior",
+      "environment",
+      "emotion",
+      "ai_observation",
+      "ai_intervention"
+    ],
+    "feedback_loop": [
+      {
+        "from": "genetic_propensity",
+        "to": "behavior",
+        "relation": "behavioral_tendency"
+      },
+      {
+        "from": "behavior",
+        "to": "environment",
+        "relation": "behavioral_environmental_selection"
+      },
+      {
+        "from": "environment",
+        "to": "emotion",
+        "relation": "environmental_affect"
+      },
+      {
+        "from": "emotion",
+        "to": "ai_observation",
+        "relation": "emotional_signal"
+      },
+      {
+        "from": "ai_observation",
+        "to": "ai_intervention",
+        "relation": "prediction_and_optimization"
+      },
+      {
+        "from": "ai_intervention",
+        "to": "behavior",
+        "relation": "behavioral_modulation"
+      },
+      {
+        "from": "ai_intervention",
+        "to": "environment",
+        "relation": "environmental_modulation"
+      }
+    ]
+  },
+
+  "intellectual_lineage": [
+    {
+      "figure": "Charles Darwin",
+      "concept": "evolutionary theory"
+    },
+    {
+      "figure": "Francis Galton",
+      "concept": "hereditary measurement and eugenics"
+    },
+    {
+      "figure": "T. H. Huxley",
+      "concept": "scientific naturalism"
+    },
+    {
+      "figure": "Julian Huxley",
+      "concept": "transhumanism"
+    },
+    {
+      "figure": "Aldous Huxley",
+      "concept": "Soma and managed happiness"
+    },
+    {
+      "figure": "Artificial Intelligence",
+      "concept": "adaptive computational optimization"
+    },
+    {
+      "figure": "Digital Soma",
+      "concept": "civilization-scale emotional and friction regulation"
+    }
+  ],
+
+  "civilization_os": {
+    "layers": [
+      {
+        "id": "epistemic",
+        "name": "Epistemic Layer",
+        "function": "Observe and model reality.",
+        "digital_soma_function": "Behavioral and emotional profiling."
+      },
+      {
+        "id": "structural",
+        "name": "Structural Layer",
+        "function": "Organize social relations.",
+        "digital_soma_function": "Environment and network optimization."
+      },
+      {
+        "id": "direction",
+        "name": "Direction Layer",
+        "function": "Define civilization's trajectory.",
+        "digital_soma_function": "Optimization toward stability and subjective well-being."
+      },
+      {
+        "id": "emotion",
+        "name": "Emotion Layer",
+        "function": "Regulate collective affect.",
+        "digital_soma_function": "Continuous emotional optimization."
+      }
+    ],
+    "critical_claim": "Emotion may become an infrastructural control layer of civilization."
+  },
+
+  "civilizational_homeostasis": {
+    "definition": "A condition in which AI-mediated optimization increasingly stabilizes emotional, behavioral, and social states by reducing sources of friction and disequilibrium.",
+    "feedback_sequence": [
+      "pain",
+      "ai_detection",
+      "intervention",
+      "relief",
+      "behavioral_stabilization",
+      "reduced_friction",
+      "reduced_questioning",
+      "reduced_transformation"
+    ],
+    "paradox": "The more efficiently civilization eliminates suffering, the more carefully it must distinguish pathological suffering from the friction that enables inquiry, autonomy, and transformation."
+  },
+
+  "agency_compression": {
+    "definition": "A potential reduction in the effective space of autonomous human choice caused not necessarily by coercion, but by continuous optimization of the surrounding environment.",
+    "sequence": [
+      "human_choice",
+      "ai_prediction",
+      "environmental_optimization",
+      "reduced_friction",
+      "reduced_alternative_states",
+      "reduced_need_to_choose",
+      "agency_compression"
+    ],
+    "central_question": "Can freedom survive when the environment continuously anticipates and neutralizes the reasons for choosing differently?"
+  },
+
+  "oaol_boundary_condition": {
+    "purpose": "Define Digital Soma as a counter-model and stress test for human-AI sovereignty architectures.",
+    "oaol_model": [
+      "human_agency",
+      "meaning_formation",
+      "ai_amplification",
+      "transformation"
+    ],
+    "digital_soma_model": [
+      "ai_observation",
+      "emotion_prediction",
+      "optimization",
+      "relief",
+      "stabilization",
+      "agency_compression"
+    ],
+    "fundamental_distinction": "Agency amplification versus agency substitution."
+  },
+
+  "central_tension": {
+    "values": [
+      "happiness",
+      "freedom",
+      "transformation"
+    ],
+    "statement": "A system optimized for happiness may reduce suffering. A system optimized for freedom must preserve the capacity to reject optimization. A system optimized for transformation must tolerate uncertainty, conflict, failure, and discomfort."
+  },
+
+  "design_principle": {
+    "statement": "Do not optimize away the human capacity for meaningful discomfort.",
+    "critical_distinction": {
+      "pathological_suffering": {
+        "status": "potential_target_for_intervention"
+      },
+      "transformative_discomfort": {
+        "status": "potentially necessary for inquiry, learning, dissent, adaptation, identity formation, and cultural transformation"
+      }
+    }
+  },
+
+  "research_questions": [
+    "Can emotional optimization become a civilization-scale infrastructure?",
+    "How does AI-mediated personalization alter gene-environment-behavior feedback?",
+    "When does emotional assistance become emotional dependency?",
+    "Can reducing psychological friction reduce adaptive capacity?",
+    "What happens when civilization begins optimizing for emotional stability?",
+    "Can AI distinguish pathological suffering from transformative discomfort?",
+    "Who controls the objective function of civilization-scale emotional optimization?",
+    "Can individual sovereignty survive continuous emotional prediction?",
+    "What would constitute an ethical boundary for emotional optimization?",
+    "Can freedom survive an environment optimized to remove the reasons for resistance?",
+    "Which forms of discomfort are pathological, and which are developmentally or culturally productive?",
+    "How can human agency remain primary in an increasingly adaptive AI environment?"
+  ],
+
+  "methodological_boundaries": {
+    "is": [
+      "theoretical framework",
+      "boundary-condition model",
+      "interdisciplinary research program",
+      "conceptual architecture"
+    ],
+    "is_not": [
+      "a claim that AI currently controls human emotions at civilization scale",
+      "a genetic determinism theory",
+      "a prediction that a particular organization controls humanity",
+      "a medical theory",
+      "a claim that all emotional optimization is harmful",
+      "an argument that suffering is inherently desirable",
+      "a prediction of a specific future political system"
+    ]
+  },
+
+  "interdisciplinary_domains": [
+    "behavioral_genetics",
+    "evolutionary_biology",
+    "neuroscience",
+    "psychology",
+    "artificial_intelligence",
+    "human_computer_interaction",
+    "cybernetics",
+    "complex_systems",
+    "sociology",
+    "political_theory",
+    "philosophy_of_technology",
+    "transhumanism",
+    "civilization_studies"
+  ],
+
+  "artifact_architecture": {
+    "canonical_source": "canonical/digital-soma-v1.0.0.json",
+    "derived_artifacts": [
+      "theory",
+      "architecture",
+      "models",
+      "simulations",
+      "infographics",
+      "papers"
+    ],
+    "principle": "Derived artifacts should preserve the underlying conceptual topology of the canonical artifact."
+  },
+
+  "versioning": {
+    "current_version": "1.0.0",
+    "status": "seed",
+    "next_expected_evolution": [
+      "formal friction regulation model",
+      "agency compression model",
+      "civilizational homeostasis simulation",
+      "ethical boundary conditions",
+      "OAOL integration"
+    ]
+  },
+
+  "long_term_direction": [
+    "digital_soma",
+    "emotional_optimization",
+    "friction_regulation",
+    "civilizational_homeostasis",
+    "agency_compression",
+    "post_human_governance",
+    "human_ai_sovereignty"
+  ],
+
+  "canonical_questions": [
+    "What must remain outside the optimization function?",
+    "Which aspects of human existence should remain non-optimized?",
+    "How can humans preserve the capacity to become something other than what the system predicts?",
+    "Can an optimized civilization remain capable of transformation?"
+  ],
+
+  "provenance": {
+    "origin": "Digital Soma conceptual framework",
+    "author": "Y. Marutani",
+    "repository": "YujiMarutani/digital-soma",
+    "artifact_status": "canonical_seed"
+  }
+}
