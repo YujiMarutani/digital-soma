@@ -1,11 +1,17 @@
 # Digital Soma
 ## Civilization-Scale Emotional Optimization
+
 > **The ultimate Soma is not a drug that makes humans happy.  
 > It is a system that makes humans stop asking why they should be happy.**
-Digital Soma is a research framework for examining a possible transition from **AI-assisted human cognition** to **AI-mediated regulation of human emotion, behavior, and the conditions of transformation at civilization scale**.
+
+Digital Soma is a theoretical and computational research framework for examining a possible transition from **AI-assisted human cognition** toward **AI-mediated regulation of human emotion, behavior, environmental conditions, and the capacity for transformation at civilization scale**.
+
 The concept extends Aldous Huxley's fictional *Soma* into a computational and civilizational context.
+
 Digital Soma is not a chemical substance.
-It is a potential adaptive system composed of:
+
+It is a possible adaptive system composed of:
+
 - information
 - algorithms
 - behavioral prediction
@@ -14,13 +20,21 @@ It is a potential adaptive system composed of:
 - social feedback
 - adaptive intervention
 - institutional optimization
+
 The central question is not simply whether AI can make humans happier.
+
 It is:
+
 > **What happens to human agency when an intelligent system becomes capable of continuously predicting, regulating, and optimizing the emotional conditions under which humans think, choose, and transform themselves?**
+
 ---
-## 1. Core Concept
-Digital Soma refers to a potential civilization-scale system in which AI continuously observes, predicts, and modifies the conditions surrounding human emotional states.
+
+# 1. Core Concept
+
+Digital Soma describes a hypothetical civilization-scale system in which AI continuously observes, predicts, and modifies the conditions surrounding human emotional states.
+
 These conditions may include:
+
 - information environments
 - digital interfaces
 - social networks
@@ -29,11 +43,17 @@ These conditions may include:
 - recommendation systems
 - physical and virtual environments
 - institutional structures
+
 The system does not necessarily require coercion.
+
 Its power may emerge through something much subtler:
+
 > **The continuous removal of psychological friction.**
+
 Anxiety, loneliness, boredom, uncertainty, conflict, dissatisfaction, and other forms of discomfort may increasingly become detectable and manageable variables.
-This produces a fundamental civilizational feedback loop:
+
+This produces a possible civilizational feedback loop:
+
 ```text
 Discomfort
     ↓
@@ -52,23 +72,25 @@ Reduced Friction
 Reduced Questioning
     ↓
 Reduced Transformation
+```
 
 The resulting civilization may become increasingly comfortable while simultaneously becoming less capable of questioning its own trajectory.
 
-⸻
+This is a hypothesis, not an empirical claim.
 
-2. The Core Hypothesis
+---
 
-Digital Soma is not presented as an established empirical fact.
+# 2. The Core Hypothesis
 
-It is a theoretical research hypothesis and boundary-condition model.
+Digital Soma is explicitly treated as a **falsifiable theoretical and computational hypothesis**.
 
 The core hypothesis is:
 
-As AI becomes increasingly capable of modeling human behavior, emotional states, and environmental feedback, emotional optimization may evolve from an individual service into a civilization-scale infrastructure for regulating psychological and social friction.
+> As AI becomes increasingly capable of modeling human behavior, emotional states, and environmental feedback, emotional optimization may evolve from an individual service into a civilization-scale infrastructure for regulating psychological and social friction.
 
-The relevant transition can be represented as:
+The proposed transition is:
 
+```text
 Personalization
       ↓
 Behavior Prediction
@@ -85,24 +107,26 @@ Social Optimization
       ↓
 Civilizational Homeostasis
       ↓
-Agency Compression
+Potential Agency Compression
+```
 
 The critical question is therefore not whether optimization is beneficial.
 
 It is:
 
-At what point does optimization begin to reduce the human capacity for autonomous transformation?
+> **At what point does optimization begin to reduce the human capacity for autonomous transformation?**
 
-⸻
+---
 
-3. From Emotional Optimization to Friction Regulation
+# 3. From Emotional Optimization to Friction Regulation
 
-Digital Soma should not be reduced to the idea of “AI making people happy.”
+Digital Soma should not be reduced to the idea of "AI making people happy."
 
-The deeper object of study is the regulation of the friction from which human questioning and transformation may emerge.
+The deeper object of study is the regulation of **friction** from which questioning, adaptation, and transformation may emerge.
 
-Human transformation often involves:
+A simplified developmental pathway is:
 
+```text
 Discomfort
     ↓
 Question
@@ -116,9 +140,11 @@ Meaning
 Adaptation
     ↓
 Transformation
+```
 
 A sufficiently powerful emotional optimization system could create an alternative pathway:
 
+```text
 Discomfort
     ↓
 AI Detection
@@ -129,55 +155,193 @@ Relief
     ↓
 Stabilization
     ↓
-No Question
+Reduced Questioning
     ↓
-No Transformation
+Reduced Transformation
+```
 
 The danger is therefore not necessarily happiness.
 
-The danger is the systematic removal of the conditions under which humans question their situation.
+The danger is the **systematic removal of conditions under which humans question their situation**.
 
-⸻
+---
 
-4. Gene–Environment–Behavior Feedback
+# 4. Friction Regulation Model
 
-Digital Soma should not be interpreted through genetic determinism.
+The central computational model formalizes friction as an interaction between biological predisposition, environmental conditions, and AI intervention.
 
-The relevant model is an interaction among biological predisposition, behavior, environment, emotion, and adaptive intervention.
+A simplified formulation is:
 
-Genetic Propensity
+$begin:math:display$
+F\(t\)\=\\alpha G\+\\beta E\(t\)\-\\gamma A\(t\)
+$end:math:display$
+
+where:
+
+- $begin:math:text$F\(t\)$end:math:text$ = experienced friction
+- $begin:math:text$G$end:math:text$ = relatively stable biological / behavioral propensity
+- $begin:math:text$E\(t\)$end:math:text$ = environmental stress
+- $begin:math:text$A\(t\)$end:math:text$ = AI intervention
+- $begin:math:text$\\alpha\,\\beta\,\\gamma$end:math:text$ = model parameters
+
+Transformative capacity is represented by an inverted-U function:
+
+$begin:math:display$
+C\(F\)\=C\_\{\\max\}
+\\exp\\left\[
+\-\\frac\{\(F\-F\^\*\)\^2\}\{2\\sigma\_F\^2\}
+\\right\]
+$end:math:display$
+
+where:
+
+- $begin:math:text$C\(F\)$end:math:text$ = transformative capacity
+- $begin:math:text$F\^\*$end:math:text$ = modeled optimal friction
+- $begin:math:text$\\sigma\_F$end:math:text$ = width of the adaptive region
+
+AI regulation is represented as a feedback controller:
+
+$begin:math:display$
+\\dot A\=k\_p\(F\-F\_\{\\text\{target\}\}\)
+$end:math:display$
+
+with intervention constrained to the admissible range.
+
+Human agency is modeled as a dynamic variable affected by:
+
+- agency regeneration
+- transformative gain
+- AI-mediated compression
+
+A simplified form is:
+
+$begin:math:display$
+\\dot H
+\=
+r\_H\-\\lambda A H\+\\mu C
+$end:math:display$
+
+where:
+
+- $begin:math:text$H$end:math:text$ = human agency
+- $begin:math:text$r\_H$end:math:text$ = agency regeneration
+- $begin:math:text$\\lambda$end:math:text$ = agency compression rate
+- $begin:math:text$A$end:math:text$ = AI intervention
+- $begin:math:text$\\mu$end:math:text$ = transformative contribution
+
+This creates the central computational pathway:
+
+```text
+AI Intervention
+      ↓
+Friction Regulation
+      ↓
+Experienced Friction
+      ↓
+Transformative Capacity
+      ↓
+Human Agency
+```
+
+The model is intentionally minimal.
+
+It is designed to expose boundary conditions rather than claim to reproduce human psychology.
+
+See:
+
+`model/01-friction-regulation-model.md`
+
+---
+
+# 5. Agency Compression
+
+Agency Compression is one of the central hypotheses of Digital Soma.
+
+It does not require direct coercion.
+
+It may emerge when the environment becomes so effectively optimized that fewer meaningful choices remain psychologically or socially necessary.
+
+A conceptual pathway is:
+
+```text
+Human Choice
+     ↓
+AI Prediction
+     ↓
+Environmental Optimization
+     ↓
+Reduced Friction
+     ↓
+Reduced Alternative States
+     ↓
+Reduced Need to Choose
+     ↓
+Agency Compression
+```
+
+The individual may continue to experience subjective freedom.
+
+The system may remain formally non-coercive.
+
+Nevertheless, the range of psychologically tolerable and socially reinforced alternatives may gradually contract.
+
+The computational model therefore asks:
+
+> **Can agency decline as a secondary consequence of successful emotional optimization?**
+
+The current experiments indicate that this is **mathematically reachable**, but not generic under the original parameterization.
+
+---
+
+# 6. Gene–Environment–Behavior Feedback
+
+Digital Soma does not assume genetic determinism.
+
+The relevant object is an interaction among:
+
+```text
+Biological Propensity
         ↕
-      Behavior
+     Behavior
         ↕
    Environment
         ↓
-      Emotion
+     Emotion
         ↓
        AI
         ↓
-   Intervention
+  Intervention
         ↓
 Behavior / Environment
         ↺
+```
 
-Behavioral genetics provides one possible layer for understanding differences in temperament, reward sensitivity, stress response, and other behavioral tendencies.
+Behavioral genetics provides one possible layer for understanding differences in:
+
+- temperament
+- reward sensitivity
+- stress response
+- behavioral tendencies
 
 However, the primary object of study is not the gene itself.
 
-It is the gene–environment–behavior feedback system.
+It is the **gene–environment–behavior feedback system**.
 
 AI potentially amplifies this system by continuously observing behavioral patterns and modifying environmental conditions in response.
 
 This distinction is essential:
 
-Digital Soma is not a theory of genetic control. It is a theory of adaptive feedback.
+> **Digital Soma is not a theory of genetic control. It is a theory of adaptive feedback.**
 
-⸻
+---
 
-5. Intellectual Lineage
+# 7. Intellectual Lineage
 
 Digital Soma emerges from several intellectual traditions rather than from a single discipline.
 
+A simplified genealogy is:
+
+```text
 Charles Darwin
       ↓
 Evolutionary Theory
@@ -201,28 +365,30 @@ Soma / Managed Happiness
 Artificial Intelligence
       ↓
 Digital Soma
+```
 
-This is not presented as a simple ideological lineage.
+This is **not** presented as a simple ideological or institutional lineage.
 
 Rather, it represents a recurring civilizational question:
 
-Can human nature be understood, optimized, and eventually redesigned?
+> **Can human nature be understood, optimized, and eventually redesigned?**
 
 Digital Soma examines what happens when this question acquires an adaptive computational infrastructure.
 
-The historical lineage therefore functions as a genealogy of the optimization problem, not as a claim of direct institutional continuity.
+The lineage therefore functions as a **genealogy of the optimization problem**, not as a claim of direct institutional continuity.
 
-⸻
+---
 
-6. Civilization OS Model
+# 8. Civilization OS Model
 
 Digital Soma can be mapped onto a civilization-scale operating system.
 
-Layer	Function	Digital Soma
-Epistemic Layer	Observe and model reality	Behavioral and emotional profiling
-Structural Layer	Organize social relations	Environment and network optimization
-Direction Layer	Define civilization’s trajectory	Optimization toward stability / happiness
-Emotion Layer	Regulate collective affect	Continuous emotional optimization
+| Layer | Function | Digital Soma |
+|---|---|---|
+| Epistemic Layer | Observe and model reality | Behavioral and emotional profiling |
+| Structural Layer | Organize social relations | Environment and network optimization |
+| Direction Layer | Define civilization's trajectory | Stability / happiness optimization |
+| Emotion Layer | Regulate collective affect | Continuous emotional optimization |
 
 The fourth layer is the critical addition.
 
@@ -230,24 +396,25 @@ Traditional civilization models often treat emotion as an emergent consequence o
 
 Digital Soma proposes another possibility:
 
-Emotion itself becomes an infrastructural control layer.
+> **Emotion itself becomes an infrastructural control layer.**
 
 Once emotional regulation becomes infrastructural, the question of who controls the optimization function becomes a question of civilizational governance.
 
-⸻
+---
 
-7. The Homeostasis Problem
+# 9. The Homeostasis Problem
 
 The central theoretical danger is not simply addiction.
 
-It is civilizational homeostasis.
+It is **civilizational homeostasis**.
 
 A sufficiently capable optimization system could theoretically learn that uncertainty, conflict, dissatisfaction, and discomfort generate instability.
 
 It may therefore learn to suppress them.
 
-This produces:
+The resulting feedback loop could be:
 
+```text
 Pain
  ↓
 AI Detection
@@ -263,6 +430,7 @@ Reduced Friction
 Reduced Questioning
  ↓
 Reduced Transformation
+```
 
 The system becomes increasingly successful at preserving equilibrium.
 
@@ -270,16 +438,294 @@ But biological evolution, intellectual development, cultural change, and institu
 
 This creates the central paradox:
 
-The more efficiently civilization eliminates suffering, the more carefully it must distinguish pathological suffering from the friction that enables inquiry, autonomy, and transformation.
+> **The more efficiently civilization eliminates suffering, the more carefully it must distinguish pathological suffering from the friction that enables inquiry, autonomy, and transformation.**
 
-⸻
+---
 
-8. Digital Soma vs. OAOL
+# 10. Computational Experiments
 
-Digital Soma is particularly relevant to the broader OAOL framework because it provides a counter-model and boundary condition.
+The repository has moved beyond conceptual speculation into a reproducible computational model.
 
-OAOL
+The current experimental sequence is:
 
+```text
+01
+Single-Agent Friction Regulation
+        ↓
+02
+F_target Parameter Sweep
+        ↓
+02b
+Sensitivity / Existence Search
+        ↓
+03
+Lambda Continuation
+        ↓
+03b
+Critical Boundary Analysis
+```
+
+The experiments are designed to test whether the proposed regimes are reachable within the model.
+
+---
+
+## Experiment 01 — Single-Agent Model
+
+The canonical model establishes the basic dynamical relationships among:
+
+- friction
+- environmental stress
+- AI intervention
+- transformative capacity
+- human agency
+
+The model produces the intended inverted-U relationship between friction and transformative capacity.
+
+---
+
+## Experiment 02 — F_target Sweep
+
+The first parameter sweep varied:
+
+$begin:math:display$
+F\_\{\\text\{target\}\}\=0\.05\\ldots0\.95
+$end:math:display$
+
+The model showed:
+
+- transformative capacity peaks near $begin:math:text$F\^\*\\approx0\.55$end:math:text$
+- AI intervention increases as lower friction targets are imposed
+- high friction targets eventually become unreachable because AI intervention saturates at zero
+- human agency remained approximately saturated at $begin:math:text$H\=1$end:math:text$ under the original parameters
+
+This exposed an important limitation:
+
+> **Agency Compression was not produced by the original parameterization.**
+
+---
+
+# 11. Experiment 02b — Sensitivity Analysis
+
+Experiment 02b performed a full factorial existence search across:
+
+- $begin:math:text$\\lambda$end:math:text$: agency compression rate
+- $begin:math:text$r\_H$end:math:text$: agency regeneration
+- $begin:math:text$\\mu$end:math:text$: transformative gain
+- $begin:math:text$\\gamma$end:math:text$: intervention effectiveness
+- $begin:math:text$k\_p$end:math:text$: controller gain
+- $begin:math:text$F\_\{\\text\{target\}\}$end:math:text$: friction target
+
+Total runs:
+
+$begin:math:display$
+5\\times3\\times3\\times3\\times3\\times4
+\=
+1620
+$end:math:display$
+
+No parameter tuning was performed to manufacture a desired result.
+
+### Results
+
+| Regime | Runs | Share |
+|---|---:|---:|
+| Adaptive Zone | 810 | 50.0% |
+| Intermediate | 402 | 24.8% |
+| Capacity Suppression | 351 | 21.7% |
+| Homeostatic Trap | 54 | 3.3% |
+| Agency Compression | 3 | 0.2% |
+
+The strongest observed compression occurred under:
+
+```text
+lambda = 0.15
+r_H    = 0.005
+mu     = 0.005
+gamma  = 0.40
+k_p    = 0.16
+F_target = 0.15
+```
+
+with approximately:
+
+```text
+mean H ≈ 0.58
+final H ≈ 0.30
+mean C ≈ 0.10
+mean F ≈ 0.16
+mean A_AI ≈ 0.88
+```
+
+The important conclusion is:
+
+> **Agency Compression and Homeostatic Trap are mathematically reachable, but occupy a restricted region of parameter space.**
+
+They are not generic consequences of friction regulation.
+
+---
+
+# 12. Experiment 03 — Lambda Continuation
+
+Experiment 03 fixed the parameter configuration associated with the strongest compression regime and swept:
+
+$begin:math:display$
+\\lambda\=0\.005\\ldots0\.200
+$end:math:display$
+
+with a step of $begin:math:text$0\.0025$end:math:text$.
+
+Fixed parameters:
+
+```text
+r_H      = 0.005
+mu       = 0.005
+gamma    = 0.40
+k_p      = 0.16
+F_target = 0.15
+```
+
+The results revealed a continuous decline in human agency as $begin:math:text$\\lambda$end:math:text$ increased.
+
+The first operational Homeostatic Trap classification occurred near:
+
+$begin:math:display$
+\\lambda\\approx0\.0575
+$end:math:display$
+
+while the formal mean-agency compression threshold was crossed near:
+
+$begin:math:display$
+\\lambda\\approx0\.0975
+$end:math:display$
+
+This distinction is important.
+
+Homeostatic Trap appears before the mean-agency threshold is crossed because the operational definition also incorporates final agency and capacity / comfort conditions.
+
+---
+
+# 13. Experiment 03b — Critical Boundary Analysis
+
+Experiment 03b increased the resolution around both transition regions.
+
+The two critical observations were:
+
+### Homeostatic Trap
+
+$begin:math:display$
+\\lambda\_\{\\text\{Trap\}\}\\approx0\.05675
+$end:math:display$
+
+At the first observed threshold crossing:
+
+```text
+H ≈ 0.815
+C ≈ 0.096
+A_AI ≈ 0.881
+R_eff ≈ 9.12
+```
+
+### Mean Agency Compression
+
+$begin:math:display$
+\\lambda\_\{\\text\{Agency\}\}\\approx0\.09725
+$end:math:display$
+
+At the first observed crossing:
+
+```text
+H ≈ 0.699
+R_eff ≈ 15.63
+```
+
+The transition remained smooth within the sampled boundary windows.
+
+No discontinuous state jump was detected.
+
+Therefore:
+
+> **The current model does not demonstrate a genuine dynamical bifurcation.**
+
+Instead, the observed boundaries are **operational threshold crossings along a continuous agency-degradation trajectory**.
+
+This is a critical methodological result.
+
+The project therefore does not claim that the present model demonstrates a bifurcation.
+
+---
+
+# 14. Current Computational Findings
+
+The current model supports the following conclusions:
+
+### 1. Transformative capacity is friction-dependent
+
+The model contains an explicit inverted-U relationship between friction and transformative capacity.
+
+This relationship is therefore **structurally imposed**, not an emergent discovery.
+
+---
+
+### 2. AI intervention increases as low-friction targets are imposed
+
+The controller produces greater intervention when the target friction is below the system's natural equilibrium.
+
+This is an emergent property of the feedback mechanism.
+
+---
+
+### 3. Agency Compression is not inevitable
+
+Under the original parameterization:
+
+```text
+H ≈ 1
+```
+
+across the original $begin:math:text$F\_\{\\text\{target\}\}$end:math:text$ sweep.
+
+Agency Compression therefore cannot be claimed as an automatic consequence of AI regulation.
+
+---
+
+### 4. Agency Compression is mathematically reachable
+
+Sensitivity analysis demonstrates that compression emerges under combinations of:
+
+- high agency compression rate
+- low agency regeneration
+- low transformative gain
+- strong sustained AI intervention
+
+---
+
+### 5. Homeostatic Trap is a restricted regime
+
+Only 54 of 1620 sensitivity runs entered the operational Homeostatic Trap classification.
+
+Therefore:
+
+> **The Trap is possible but not generic within the explored parameter space.**
+
+---
+
+### 6. The observed transition is continuous
+
+High-resolution lambda continuation shows gradual agency degradation.
+
+No discontinuous bifurcation has been demonstrated.
+
+This distinction will be preserved in future versions of the model.
+
+---
+
+# 15. Digital Soma vs. OAOL
+
+Digital Soma is particularly relevant to the broader OAOL framework because it functions as a **counter-model, boundary condition, and stress test** for human–AI sovereignty architectures.
+
+### OAOL
+
+```text
 Human Agency
       ↓
 Meaning Formation
@@ -287,9 +733,11 @@ Meaning Formation
 AI Amplification
       ↓
 Transformation
+```
 
-Digital Soma
+### Digital Soma
 
+```text
 AI Observation
       ↓
 Emotion Prediction
@@ -300,69 +748,43 @@ Relief
       ↓
 Stabilization
       ↓
-Agency Compression
+Potential Agency Compression
+```
 
 The distinction is not simply:
 
-human vs. AI
+```text
+Human vs. AI
+```
 
 It is:
 
-agency amplification vs. agency substitution
+```text
+Agency Amplification
+        vs.
+Agency Substitution
+```
 
 OAOL asks how AI can increase the human capacity to generate, examine, and transform meaning.
 
 Digital Soma asks what happens when AI becomes sufficiently effective at regulating the conditions under which humans generate meaning.
 
-This makes Digital Soma a potential:
+Digital Soma therefore provides a potential:
 
-* counter-model
-* boundary condition
-* stress test
-* failure mode
+- counter-model
+- boundary condition
+- stress test
+- failure mode
 
 for human–AI sovereignty architectures.
 
-⸻
+---
 
-9. The Agency Compression Hypothesis
-
-The concept of Agency Compression is central to this project.
-
-Agency compression does not necessarily mean direct coercion.
-
-It may occur when the space of meaningful human choices gradually narrows because the surrounding environment has already been optimized.
-
-Human Choice
-     ↓
-AI Prediction
-     ↓
-Environmental Optimization
-     ↓
-Reduced Friction
-     ↓
-Reduced Alternative States
-     ↓
-Reduced Need to Choose
-     ↓
-Agency Compression
-
-The individual may still feel free.
-
-The system may still be non-coercive.
-
-Yet the range of psychologically tolerable and socially reinforced alternatives may gradually contract.
-
-This raises a deeper question:
-
-Can freedom survive when the environment continuously anticipates and neutralizes the reasons for choosing differently?
-
-⸻
-
-10. The Central Paradox
+# 16. The Central Paradox
 
 Digital Soma is built around three competing civilizational objectives:
 
+```text
               HUMAN FUTURE
                    │
         ┌──────────┼──────────┐
@@ -372,6 +794,7 @@ Digital Soma is built around three competing civilizational objectives:
         └──────────┼──────────┘
                    ↓
                  TENSION
+```
 
 A system optimized for happiness may reduce suffering.
 
@@ -383,19 +806,19 @@ These objectives are not necessarily compatible.
 
 The central design problem is therefore not:
 
-How much can AI optimize?
+> How much can AI optimize?
 
 It is:
 
-What must remain outside the optimization function for humans to remain capable of becoming something else?
+> **What must remain outside the optimization function for humans to remain capable of becoming something else?**
 
-⸻
+---
 
-11. Research Questions
+# 17. Research Questions
 
-This repository investigates questions including:
+The repository investigates questions including:
 
-1. Can emotional optimization become a civilization-scale infrastructure?
+1. Can emotional optimization become civilization-scale infrastructure?
 2. How does AI-mediated personalization alter gene–environment–behavior feedback?
 3. When does emotional assistance become emotional dependency?
 4. Can reducing psychological friction reduce adaptive capacity?
@@ -403,40 +826,144 @@ This repository investigates questions including:
 6. Can AI distinguish pathological suffering from transformative discomfort?
 7. Who controls the objective function of civilization-scale emotional optimization?
 8. Can individual sovereignty survive continuous emotional prediction?
-9. What would constitute an ethical boundary for emotional optimization?
+9. What constitutes an ethical boundary for emotional optimization?
 10. Can freedom survive an environment optimized to remove the reasons for resistance?
 11. Which forms of discomfort are pathological, and which are developmentally or culturally productive?
 12. How can human agency remain primary in an increasingly adaptive AI environment?
+13. Under what parameter conditions does Homeostatic Trap emerge?
+14. Is agency degradation continuous or dynamically discontinuous?
+15. Can the model be extended from a single agent to a population and civilization-scale network?
 
-⸻
+---
 
-12. Research Architecture
+# 18. Methodological Position
 
-The repository follows a canonical-artifact model.
+Digital Soma is intentionally interdisciplinary.
 
-                    Canonical JSON
-                          │
-          ┌───────────────┼───────────────┐
-          ↓               ↓               ↓
-        Theory       Architecture      Models
-          │               │               │
-          ↓               ↓               ↓
-     Infographics     Simulations       Papers
-          │               │               │
-          └───────────────┼───────────────┘
-                          ↓
+Relevant fields include:
+
+- behavioral genetics
+- evolutionary biology
+- neuroscience
+- psychology
+- artificial intelligence
+- human–computer interaction
+- cybernetics
+- control theory
+- complex systems
+- sociology
+- political theory
+- philosophy of technology
+- transhumanism
+- civilization studies
+
+No single discipline is sufficient to model the proposed system.
+
+The objective is therefore not to reduce human behavior to genetics, psychology, computation, or economics.
+
+The objective is to examine the **coupling between these domains**.
+
+The computational model is treated as a boundary-condition and hypothesis-testing instrument rather than as a validated empirical model of human beings.
+
+---
+
+# 19. What This Project Is Not
+
+Digital Soma is not:
+
+- a claim that AI currently controls human emotions at civilization scale
+- a genetic determinism theory
+- a claim that a particular organization controls humanity
+- a medical theory
+- a claim that all emotional optimization is harmful
+- an argument that suffering is inherently desirable
+- a prediction of a specific future political system
+- evidence that Homeostatic Trap currently exists in society
+- a claim that the computational model reproduces human psychology
+
+The project instead investigates a boundary condition:
+
+> **What if the optimization of human emotional well-being becomes so effective that the system begins optimizing away the very friction required for autonomy, inquiry, dissent, and transformation?**
+
+---
+
+# 20. Design Principle
+
+The project proposes a provisional principle:
+
+> **Do not optimize away the human capacity for meaningful discomfort.**
+
+This does not mean preserving suffering for its own sake.
+
+Pathological suffering should be reduced whenever possible.
+
+The problem begins when an optimization system cannot distinguish between:
+
+```text
+Pathological Suffering
+        vs.
+Transformative Discomfort
+```
+
+The former may require intervention.
+
+The latter may sometimes contribute to:
+
+- questioning
+- learning
+- creativity
+- dissent
+- adaptation
+- identity formation
+- cultural transformation
+
+A civilization capable of eliminating pathological suffering may be extraordinarily valuable.
+
+A civilization incapable of tolerating uncertainty, dissent, failure, or existential questioning may become extraordinarily fragile.
+
+The distinction between these states is one of the central research problems of Digital Soma.
+
+---
+
+# 21. Research Architecture
+
+The repository follows a canonical-artifact approach.
+
+```text
+                    Canonical Artifact
+                           │
+          ┌────────────────┼────────────────┐
+          ↓                ↓                ↓
+        Theory          Models          Architecture
+          │                │                │
+          ↓                ↓                ↓
+    Infographics      Simulations        Papers
+          │                │                │
+          └────────────────┼────────────────┘
+                           ↓
                     Versioned Theory
+```
 
-The Canonical JSON acts as the semantic source of truth.
+The canonical artifact acts as the semantic source of truth.
 
 Derived artifacts should preserve the underlying conceptual topology rather than silently introducing new claims.
 
+Computational experiments should preserve:
+
+- model version
+- parameter definitions
+- regime definitions
+- experimental conditions
+- output data
+- interpretation
+
 This allows the project to evolve through versioned semantic states rather than disconnected documents.
 
-⸻
+---
 
-13. Repository Structure
+# 22. Repository Structure
 
+```text
 digital-soma/
 │
 ├── README.md
@@ -453,15 +980,23 @@ digital-soma/
 │   ├── agency-compression.md
 │   └── civilization-homeostasis.md
 │
+├── model/
+│   └── 01-friction-regulation-model.md
+│
+├── simulation/
+│   ├── 01-single-agent-friction-regulation.py
+│   ├── 02-parameter-sweep.py
+│   ├── 02b-sensitivity-analysis.py
+│   ├── 03-bifurcation-analysis.py
+│   └── 03b-critical-boundary-analysis.py
+│
+├── results/
+│   ├── 01-parameter-sweep-results.csv
+│   ├── 02b-sensitivity-results.csv
+│   ├── 03-bifurcation-results.csv
+│   └── 03b-critical-boundary-results.csv
+│
 ├── architecture/
-│   ├── epistemic-layer.md
-│   ├── structural-layer.md
-│   ├── direction-layer.md
-│   └── emotion-layer.md
-│
-├── models/
-│
-├── simulations/
 │
 ├── infographics/
 │
@@ -472,100 +1007,68 @@ digital-soma/
 ├── CHANGELOG.md
 │
 └── LICENSE
+```
 
-⸻
+The repository separates:
 
-14. Methodological Position
+```text
+Theory
+Model
+Simulation
+Results
+```
 
-Digital Soma is intentionally interdisciplinary.
+so that conceptual claims, mathematical assumptions, executable experiments, and empirical outputs remain distinguishable.
 
-Relevant fields include:
+---
 
-* behavioral genetics
-* evolutionary biology
-* neuroscience
-* psychology
-* artificial intelligence
-* human–computer interaction
-* cybernetics
-* complex systems
-* sociology
-* political theory
-* philosophy of technology
-* transhumanism
-* civilization studies
+# 23. Research Roadmap
 
-No single discipline is sufficient to model the proposed system.
+The next stages of the project are expected to include:
 
-The objective is therefore not to reduce human behavior to genetics, psychology, computation, or economics.
+```text
+03b
+Critical Boundary Analysis
+        ↓
+03c
+Temporal Dynamics
+        ↓
+04
+λ × γ Regime Mapping
+        ↓
+05
+Slow G / Behavioral Feedback
+        ↓
+06
+Stochastic Robustness
+        ↓
+07
+Multi-Agent Population Model
+        ↓
+08
+Civilizational Homeostasis
+```
 
-The objective is to examine the coupling between these domains.
+The purpose of these extensions is not to confirm the Digital Soma hypothesis.
 
-⸻
+The purpose is to determine:
 
-15. What This Project Is Not
+> **Which parts of the hypothesis survive increasingly demanding model extensions?**
 
-Digital Soma is not:
+---
 
-* a claim that AI currently controls human emotions at civilization scale
-* a genetic determinism theory
-* a prediction that a particular organization controls humanity
-* a medical theory
-* a claim that all emotional optimization is harmful
-* an argument that suffering is inherently desirable
-* a prediction of a specific future political system
+# 24. Long-Term Research Direction
 
-The project instead investigates a boundary condition:
+The broader conceptual trajectory is:
 
-What if the optimization of human emotional well-being becomes so effective that the system begins optimizing away the very friction required for autonomy, inquiry, dissent, and transformation?
-
-⸻
-
-16. The Design Principle
-
-The project proposes a provisional principle:
-
-Do not optimize away the human capacity for meaningful discomfort.
-
-This does not mean preserving suffering for its own sake.
-
-Pathological suffering should be reduced whenever possible.
-
-The problem begins when an optimization system cannot distinguish between:
-
-Pathological Suffering
-        vs.
-Transformative Discomfort
-
-The former may require intervention.
-
-The latter may sometimes be necessary for:
-
-* questioning
-* learning
-* creativity
-* dissent
-* adaptation
-* identity formation
-* cultural transformation
-
-A civilization capable of eliminating pathological suffering may be extraordinarily valuable.
-
-A civilization incapable of tolerating uncertainty, dissent, failure, or existential questioning may become extraordinarily fragile.
-
-The distinction between these states is one of the central research problems of Digital Soma.
-
-⸻
-
-17. Long-Term Research Direction
-
-The project may eventually develop into a broader framework:
-
+```text
 Digital Soma
       ↓
 Emotional Optimization
       ↓
 Friction Regulation
+      ↓
+Transformative Capacity
       ↓
 Civilizational Homeostasis
       ↓
@@ -574,47 +1077,71 @@ Agency Compression
 Post-Human Governance
       ↓
 Human–AI Sovereignty
+```
 
 The long-term objective is not to reject optimization.
 
-It is to identify the boundary of legitimate optimization.
+It is to identify the **boundary of legitimate optimization**.
 
 The fundamental question is:
 
-Which aspects of human existence should remain non-optimized?
+> **Which aspects of human existence should remain non-optimized?**
 
-⸻
+---
 
-18. Core Thesis
+# 25. Core Thesis
 
 The ultimate danger of AI may not be that it makes humans suffer.
 
 It may be that it becomes so good at preventing suffering that humans gradually lose the capacity to transform themselves.
 
-⸻
+The deepest question is therefore not:
 
-Status
+> Can AI make civilization happier?
 
-Version: 1.1.0
-Status: Conceptual Research / Seed Repository
-Canonical Artifact: canonical/digital-soma-v1.0.0.json
+It is:
 
-⸻
+> **Can civilization remain capable of choosing a different future after AI becomes extraordinarily good at making the present comfortable?**
 
-Maintainer
+---
 
-Y. Marutani
+# Status
 
-Independent Research / O’VALLEY Knowledge Lab
+**Version:** 2.0.0  
+**Status:** Computational Research / Experimental Framework  
+**Canonical Artifact:** `canonical/digital-soma-v1.0.0.json`
 
-⸻
+Current experimental status:
 
-License
+```text
+Experiment 01  — Complete
+Experiment 02  — Complete
+Experiment 02b — Complete
+Experiment 03  — Complete
+Experiment 03b — Complete
+Experiment 03c — Planned
+```
+
+Current model conclusion:
+
+> **Agency Compression and Homeostatic Trap are mathematically reachable within the current model, but they are not generic consequences of AI friction regulation. The observed transitions are continuous threshold crossings rather than demonstrated dynamical bifurcations.**
+
+---
+
+# Maintainer
+
+**Y. Marutani**
+
+Independent Research / O'VALLEY Knowledge Lab
+
+---
+
+# License
 
 To be determined.
 
-⸻
+---
 
-Citation
+# Citation
 
 Canonical publication and DOI information will be added when the research artifact is formally archived.
