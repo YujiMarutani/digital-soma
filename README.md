@@ -1,5 +1,3 @@
-はい。今回の議論を反映して、「emotional optimization」から「friction regulation / agency compression」へ核心を一段深くしたREADME v1.1.0案です。
-
 # Digital Soma
 ## Civilization-Scale Emotional Optimization
 > **The ultimate Soma is not a drug that makes humans happy.  
