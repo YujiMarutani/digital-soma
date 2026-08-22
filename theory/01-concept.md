@@ -1,4 +1,4 @@
-# 01 Digital Soma: Conceptual Framework
+# 01. Digital Soma: Conceptual Framework
 
 ## 1. Overview
 
