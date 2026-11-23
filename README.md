@@ -1,6 +1,8 @@
 # Digital Soma
 ## Civilization-Scale Emotional Optimization
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22054608.svg)](https://doi.org/10.5281/zenodo.22054608)
+
 > **The ultimate Soma is not a drug that makes humans happy.  
 > It is a system that makes humans stop asking why they should be happy.**
 
@@ -1387,4 +1389,8 @@ To be determined.
 
 # Citation
 
-Canonical publication and DOI information will be added when the research artifact is formally archived.
+The canonical record of this work is archived on Zenodo:
+
+Marutani, Y. (2026). *Digital Soma: Friction Regulation Model and Agency Compression* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22054608
+
+The Zenodo record lists this repository as a related resource. This repository is the living specification and implementation; the Zenodo DOI is the persistent, citable version.
